@@ -5,11 +5,13 @@
     "App": 1,
     "DatePicker1": 5,
     "Host": 3,
-    "Screen1": 4
+    "PenInput1": 7,
+    "Screen1": 4,
+    "TextInput1": 6
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/12/2024 06:46:25",
+  "HeaderLastSavedDateTimeUTC": "07/12/2024 06:48:44",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -22,13 +24,17 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "datepicker": 0
+    "datepicker": 0,
+    "inkControl": 2,
+    "text": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "DatePicker1": {},
     "Host": {},
-    "Screen1": {}
+    "PenInput1": {},
+    "Screen1": {},
+    "TextInput1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -36,7 +42,9 @@
     "App": 0,
     "DatePicker1": 0,
     "Host": 0,
-    "Screen1": 0
+    "PenInput1": 0,
+    "Screen1": 0,
+    "TextInput1": 0
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},

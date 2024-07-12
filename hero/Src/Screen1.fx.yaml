@@ -5,3 +5,14 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    TextInput1 As text:
+        Default: ="Text input"
+        X: =70
+        Y: =200
+        ZIndex: =2
+
+    PenInput1 As inkControl:
+        X: =705
+        Y: =40
+        ZIndex: =3
+
